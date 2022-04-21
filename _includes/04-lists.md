@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* DragonBall manga series
+* Enid Blyton
+  * Mystery series
+  * Famous Five series
+* Sherlock Holmes
